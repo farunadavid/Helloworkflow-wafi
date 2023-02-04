@@ -28,6 +28,8 @@ Worker application
 Now we have seen the worker started, lets now view the web UI to see the workflow execution
 
 WEB UI
+![Screworkflow2](https://user-images.githubusercontent.com/116575399/216771430-ad6a624a-4943-4223-b6d5-4c58951400e3.png)
+
 
 Now that we have the web UI running completed status on the workflow, lets try to chenge it's input and lets see if we still have a resilient service Code Change Snippet
 
