@@ -20,6 +20,8 @@ We Then make sure the application is set-up and we run it using the following co
 go run ./worker/main.go
 
 That command starts the worker processes for running thw workflows connected to the application To start up the application and execute the application we look at the below snippet and output go run ./starter/main.go
+![workflow1](https://user-images.githubusercontent.com/116575399/216769049-1d9623b4-1470-40be-aa36-bd91c5f0a319.png)
+
 
 Worker application
 
